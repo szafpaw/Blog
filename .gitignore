@@ -3,3 +3,7 @@
 ################################################################################
 
 /Blog.DAL.Tests/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs
+/Blog.DAL.Tests/obj/Debug/Blog.DAL.Tests.csproj.AssemblyReference.cache
+/Blog.DAL.Tests/obj/Debug
+/Blog.DAL/obj/Debug
+/.vs/Blog
